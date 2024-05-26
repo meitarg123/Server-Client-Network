@@ -1,4 +1,5 @@
 # Server-Client Network
+This project was developed as part of a university course on System Programming Language (SPL).
 
 In this project, we implemented a "Course Registration System" with a server and client architecture. The communication between the server and the clients was performed using a binary communication protocol.
 
